@@ -25,13 +25,13 @@ In this task, I created a one-page infographic to explain the concept of digital
 ## 💼 Task 2 – Student Digital Portfolio
 In this task, I created my profiles on professional platforms to build my digital identity.
 
-- GitHub: [GitHub Profile]((https://github.com/aryansharma18115ind-lab))
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aryan-sharma-51a415378/)
-- Kaggle: [Kaggle Profile](https://www.kaggle.com/aryansh18)
+- GitHub: [GitHub Profile]((https://github.com/arpit09yadav))
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/arpit-singh-27138b395?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Kaggle
 
 These platforms will help me showcase my work, connect with professionals, and improve my technical skills over time.
 
-📂 Folder: [Task-2](https://github.com/aryansharma18115ind-lab/Digital-literacy-Vityaarthi/tree/main/Task%2002)
+TASK 2:FOLDER
 
 ---
 
@@ -45,7 +45,7 @@ I also created a Google Form titled "Digital Literacy Awareness Quiz" to test ba
 
 Screenshots of the coding challenge, form, and responses have been added.
 
-📂 Folder: [Task-3](https://github.com/aryansharma18115ind-lab/Digital-literacy-Vityaarthi/tree/main/Task%2003)
+📂 Folder: [Task-3]
 
 ---
 
@@ -56,7 +56,7 @@ In this task, I learned professional communication by drafting two emails:
 
 I also created a checklist of Do’s and Don’ts for responsible social media use.
 
-📂 Folder: [Task-4](https://github.com/aryansharma18115ind-lab/Digital-literacy-Vityaarthi/tree/main/Task%2004)
+📂 Folder: [Task-4]
 
 ---
 
@@ -65,7 +65,7 @@ In this task, I studied cybercrime related to UPI fraud and created a case study
 
 I also prepared a prevention checklist with safety tips and included official reporting channels.
 
-📂 Folder: [Task-5](https://github.com/aryansharma18115ind-lab/Digital-literacy-Vityaarthi/tree/main/Task%2005)
+📂 Folder: [Task-5]
 
 ---
 
