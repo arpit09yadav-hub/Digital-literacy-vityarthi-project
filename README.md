@@ -1,9 +1,9 @@
 # 📚 Digital Literacy Project
 
 ## 👤 Student Details
-- Name: Aryan Sharma
-- Registration Number: 25BSA10066
-- Branch: CSE(Cloud computing and Automation)
+- Name: Arpit Singh
+- Registration Number: 25BCE10726
+- Branch: CSE(CORE)
 - Year: 1st Year
 
 ---
@@ -18,7 +18,7 @@ The project is divided into five tasks, each covering a specific area of digital
 ## 🧩 Task 1 – Digital Literacy Infographic
 In this task, I created a one-page infographic to explain the concept of digital literacy. The infographic covers topics such as safe internet practices, email etiquette, and useful digital tools for students. The design was created using Canva/AI tools with a focus on clarity and visual appeal.
 
-📂 Folder: [Task-01](https://github.com/aryansharma18115ind-lab/Digital-literacy-Vityaarthi/tree/main/Task%2001)
+📂 Folder: [Task-01]
 
 ---
 
